@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+html, body {
+	font-family: Abel, Arial, Verdana, sans-serif;	
+}
+
+#avatar {
+	border-radius: 50%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.finder {
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translate(-50%, 50%);
+	transform: translate(-50%, 50%);	
+	text-align: center;
+}
+
+.finder h1 {
+	font-size: 3em;	
+}
+
+.pseudo-search {
+	display: inline;
+	border: 2px solid #ccc;
+	border-radius: 100px;
+	padding: 10px 15px;
+	transition: background-color 0.5 ease-in-out;	
+}
+
+.pseudo-search input {
+	border: 0;
+	background-color: transparent;
+	width: 200px;
+}
+
+.pseudo-search input:focus {
+	outline: none;
+}
+
+.finder input:focus {
+	outline: none;
+}
+
+button, i {
+	border: none;
+	background: none;
+	cursor: pointer;
+}
+
+.center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+.mycard {
+	width: 110%;
+	height: 280px;
+	background-color: #fff;
+	background: linear-gradient(#f8f8f8, #fff);
+	box-shadow: 0 8px 16px -15px rgba(0, 0, 0, 0.4);
+	border-radius: 6px;
+	overflow: hidden;
+	position: relative;
+	margin: 1.5rem;
+	display: flex;  	
+	color: white;
+	font-weight: bold;
+}
+
+.mycard .myadditional {
+	/*position: absolute;*/
+	width: 250%;
+	height: 100%;
+	background-color: #6aa4ca;
+	background: linear-gradient(#566b92, #6aa4ca);
+	transition: width 0.4s;
+	overflow: hidden;
+	z-index: 2;
+	text-align: center;
+	
+}
+
+.mycard .myuser-card {
+	width: 170%;
+	height: 100%;
+	position: relative;
+	float: left;
+	background-color: #648373ab;
+	display: grid;
+    place-content: center;
+	text-align: center;
+}
+
+.myround {
+	background-color:#224C36;
+	border-radius: 30px;
+	width: 110px;	
+	padding: 1px 10px;
+	
+}
+
+.mycity-twitter {
+	display: flex; 
+	justify-content: space-between;
+	padding-left: 20px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+}
+
+.myrepos-followers {
+	display: flex; 
+	justify-content: space-between;
+	padding-left: 20px;
+	padding-right: 25px;
+	padding-bottom: 35px;
+	padding-top: 25px;
+}
+

@@ -1,0 +1,66 @@
+[{
+		"id": 1,
+		"login": "mojombo",
+		"avatar_url": "https://avatars.githubusercontent.com/u/1?v=4",
+		"created_at": "2007-10-20T05:24:19Z",
+		"name": "Tom Preston-Werner",
+		"location": "San Francisco",
+		"twitter_username": "mojombo",
+		"blog": "http://tom.preston-werner.com",
+		"public_repos": 63,
+		"followers": 22827,
+		"following": 11
+	},
+	{
+		"id": 46,
+		"login": "bmizerany",
+		"avatar_url": "https://avatars.githubusercontent.com/u/46?v=4",
+		"created_at": "2008-01-24T04:44:30Z",
+		"name": "Blake Mizerany",
+		"location": null,
+		"twitter_username": null,
+		"blog": "",
+		"public_repos": 162,
+		"followers": 1314,
+		"following": 26
+	},
+	{
+		"id": 45,
+		"login": "mojodna",
+		"avatar_url": "https://avatars.githubusercontent.com/u/45?v=4",
+		"created_at": "2008-01-24T04:40:22Z",
+		"name": "Seth Fitzsimmons",
+		"location": "Bend, OR",
+		"twitter_username": "mojodna",
+		"blog": "http://mojodna.net/",
+		"public_repos": 314,
+		"followers": 534,
+		"following": 114
+	},
+	{
+		"id": 37,
+		"login": "jamesgolick",
+		"avatar_url": "https://avatars.githubusercontent.com/u/37?v=4",
+		"created_at": "2008-01-19T22:52:30Z",
+		"name": "James Golick",
+		"location": "New York",
+		"twitter_username": null,
+		"blog": "http://jamesgolick.com",
+		"public_repos": 110,
+		"followers": 613,
+		"following": 30
+	},
+	{
+		"id": 18,
+		"login": "wayneeseguin",
+		"avatar_url": "https://avatars.githubusercontent.com/u/18?v=4",
+		"created_at": "2008-01-13T06:02:21Z",
+		"name": "Wayne E. Seguin",
+		"location": "Buffalo, NY",
+		"twitter_username": null,
+		"blog": "",
+		"public_repos": 98,
+		"followers": 715,
+		"following": 17
+	}
+]
